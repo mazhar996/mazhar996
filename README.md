@@ -10,14 +10,15 @@ I am a Senior Engineer and Field Trials Specialist with extensive experience in 
 
 ## 🛠️ My Tech Stack & Expertise
 
-| Category                  | Key Skills & Technologies                                                                                                         |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **UC / VoIP**             | SIP, RTP, SDP, QoS, Mitel MiCollab, Mitel MiVB, Mitel MiVO400, Mitel SIP-DECT, Asterisk, FreePBX, Cisco UCM                       |
-| **Networks & Security**   | TCP/IP Suite, BGP, OSPF, VLANs, NAT, VPNs (IPSec/SSL), Wireshark, PfSense, netfilter, Snort                                    |
-| **Virtualization & Cloud**| AWS (EC2, Route 53, VPC), VMware vSphere (ESXi), Docker, Kubernetes, LXC                        |
+| Category                  | Key Skills & Technologies                                                                       |
+| ------------------------- | ----------------------------------------------------------------------------------------------- |
+| **UC / VoIP**             | SIP, RTP, SDP, QoS, MiCollab, MiVB, MiVO400, Asterisk, FreePBX, Cisco UCM                          |
+| **Networks & Security**   | TCP/IP Suite, BGP, OSPF, VLANs, NAT, VPNs (IPSec/SSL), Wireshark, PfSense, netfilter, Snort      |
+| **Virtualization & Cloud**| AWS (EC2, Route 53, VPC), VMware vSphere (ESXi), Docker, Kubernetes, LXC                         |
 | **Operating Systems**     | Fedora-based Linux (CentOS, Red Hat), openSUSE, Ubuntu, Windows Server                          |
-| **Systems & Applications**| Apache, NGINX, Postfix, BIND, Squid, Oracle SQL/PLSQL, MySQL/MariaDB, Java, Python              |
-| **Exploring AI & Data Science** | Python (for Data Science & AI), R, NumPy, Language Models (LLMs)                          |
+| **Applications & Databases**| Apache, NGINX, Postfix, BIND, Squid, Oracle, MySQL/MariaDB                                              |
+| **Programming Languages** | Python, Java, SQL, PL/SQL                                                                       |
+| **Exploring AI & Data Science** | Python (for Data Science & AI), R, Pandas, NumPy, Scikit-learn, Language Models (LLMs)      |
 
 ---
 Building on a solid foundation in programming with Java and SQL, I am now focused on transitioning into the AI field. My roadmap is centered on building practical skills and a deep understanding of the data lifecycle.
