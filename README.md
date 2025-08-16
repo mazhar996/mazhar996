@@ -12,7 +12,7 @@ I have extensive experience in Unified Communications, VoIP, and Network Securit
 
 | Category                  | Key Skills & Technologies                                                                       |
 | ------------------------- | ----------------------------------------------------------------------------------------------- |
-| **UC / VoIP**             | SIP, RTP, SDP, QoS, MiCollab, MiVB, MiVO400, Asterisk, FreePBX, Cisco UCM                          |
+| **UC / VoIP**             | SIP, RTP, SDP, QoS, MiCollab, MiVB, MiVO400, Asterisk, FreePBX, Cisco UCM, VOS3000                          |
 | **Networks & Security**   | TCP/IP Suite, BGP, OSPF, VLANs, NAT, VPNs (IPSec/SSL), Wireshark, PfSense, netfilter, Snort      |
 | **Virtualization & Cloud**| AWS, Google Cloud, MS Azure, VMware vSphere (ESXi), Docker, Kubernetes, LXC                         |
 | **Operating Systems**     | Fedora-based Linux (CentOS, Red Hat), openSUSE, Ubuntu, Windows Server                          |
