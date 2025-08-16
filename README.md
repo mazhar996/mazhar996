@@ -1,5 +1,5 @@
 ## Hi there, I'm Mazhar Abbas 👋
-I am a Senior Engineer and Field Trials Specialist with extensive experience in Unified Communications, VoIP, and Network Security. Leveraging my deep background in systems and software, I am actively pivoting my expertise towards Artificial Intelligence and Data Science.
+I have extensive experience in Unified Communications, VoIP, and Network Security. Leveraging my deep background in systems and software, I am actively pivoting my expertise towards Artificial Intelligence and Data Science.
 
 - 🔭 I’m currently leading field trials for Mitel's products MiCollab and SIP-DECT.
 - 🌱 I’m currently focused on mastering Python for AI/ML, exploring Data Science fundamentals, and understanding Large Language Models.
