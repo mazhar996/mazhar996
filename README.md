@@ -14,7 +14,7 @@ I have extensive experience in Unified Communications, VoIP, and Network Securit
 | ------------------------- | ----------------------------------------------------------------------------------------------- |
 | **UC / VoIP**             | SIP, RTP, SDP, QoS, MiCollab, MiVB, MiVO400, Asterisk, FreePBX, Cisco UCM                          |
 | **Networks & Security**   | TCP/IP Suite, BGP, OSPF, VLANs, NAT, VPNs (IPSec/SSL), Wireshark, PfSense, netfilter, Snort      |
-| **Virtualization & Cloud**| AWS (EC2, Route 53, VPC), VMware vSphere (ESXi), Docker, Kubernetes, LXC                         |
+| **Virtualization & Cloud**| AWS, Google Cloud, MS Azure, VMware vSphere (ESXi), Docker, Kubernetes, LXC                         |
 | **Operating Systems**     | Fedora-based Linux (CentOS, Red Hat), openSUSE, Ubuntu, Windows Server                          |
 | **Applications & Databases**| Apache, NGINX, Postfix, BIND, Squid, Oracle, MySQL/MariaDB                                              |
 | **Programming Languages** | Python, Java, SQL, PL/SQL                                                                       |
