@@ -18,7 +18,7 @@ I have extensive experience in Unified Communications, VoIP, and Network Securit
 | **Operating Systems**     | Fedora-based Linux (CentOS, Red Hat), openSUSE, Ubuntu, Windows Server                          |
 | **Applications & Databases**| Apache, NGINX, Postfix, BIND, Squid, Oracle, MySQL/MariaDB                                              |
 | **Programming Languages** | Python, Java, SQL, PL/SQL                                                                       |
-| **Exploring AI & Data Science** | Python (for Data Science & AI), R, Pandas, NumPy, Scikit-learn, Language Models (LLMs)      |
+| **Exploring AI & Data Science** | Python (for Data Science & AI), Fine-tuning (using Unsloth) open-source models, RAG, Tool Calling      |
 
 ---
 Building on a solid foundation in programming with Java and SQL, I am now focused on transitioning into the AI field. My roadmap is centered on building practical skills and a deep understanding of the data lifecycle.
@@ -26,7 +26,7 @@ Building on a solid foundation in programming with Java and SQL, I am now focuse
 My current learning path includes:
 - **Mastering Python:** Deepening my proficiency in Python and its core data science libraries (Pandas, NumPy, Matplotlib).
 - **Machine Learning Fundamentals:** Studying algorithms and applying them with frameworks like Scikit-learn.
-- **Language & Data:** Exploring the architecture of Large Language Models (LLMs) and planning to learn R for advanced statistical analysis.
+- **Language & Data:** Exploring the architecture of Large Language Models (LLMs) and fine tuning them.
 
 ---
 ## 🎓 Education & Certifications
