@@ -1,7 +1,6 @@
 ## Hi there, I'm Mazhar 👋
 I have extensive experience in Unified Communications, VoIP, and Network Security. Leveraging my deep background in systems and software, I am actively pivoting my expertise towards Artificial Intelligence, Data Science, and Machine Learning.
 
-- 🔭 I’m currently leading field trials for Mitel's products MiCollab and SIP-DECT.
 - 🌱 I’m currently focused on mastering Python for AI/ML, exploring Data Science fundamentals, and understanding Large Language Models.
 - 💬 Ask me about: **SIP, UC, Network Security, and my journey into AI!**
 - 📫 How to reach me: [mail@mazharabbas.de](mailto:mail@mazharabbas.de) | [www.mazharabbas.de](https://www.mazharabbas.de)
@@ -25,7 +24,7 @@ Building on a solid foundation in programming with Java and SQL, I am now focuse
 
 My current learning path includes:
 - **Mastering Python:** Deepening my proficiency in Python and its core data science libraries (Pandas, NumPy, Matplotlib).
-- **Machine Learning Fundamentals:** Studying algorithms and applying them with frameworks like Scikit-learn.
+- **Machine Learning Fundamentals:** Studying algorithms.
 - **Language & Data:** Exploring the architecture of Large Language Models (LLMs) and fine tuning them.
 
 ---
